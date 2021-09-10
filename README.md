@@ -2,6 +2,7 @@
 
 ```sh
 yarn install
-yarn build
-yarn dev
+yarn start {project}
+yarn build {project}
+yarn dev {project}
 ```
